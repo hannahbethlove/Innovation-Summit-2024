@@ -5,7 +5,7 @@
 - **Decision-Making Process:**
     - Before advancing to the next section of the handout, use a structured decision-making method. Ensure that all team members agree on the decisions made. This approach helps in maintaining coherence and collective agreement throughout the activities.
 
-### Introductions (approx. time: 10 mins total or "2 breaths" per person)
+### Introductions (approx. time: 10 mins total or "1-2 breaths" per prompt")
 - **Each team member please share the following information about yourself:**
 
   - **Name:** [Your Name]
